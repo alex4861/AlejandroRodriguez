@@ -54,8 +54,8 @@ const About = ({ title, dark, id }) => {
           </CardContent>
           <CardActions>
             <Button variant="contained" className={classes.pdfButton}>
-              <a href={pdf} download>
-                Descargar CV
+              <a href="https://www.linkedin.com/in/alejandro-oronzor" target ="_blank">
+                Ir a Linkedin
               </a>
             </Button>
           </CardActions>
