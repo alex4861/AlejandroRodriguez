@@ -1,7 +1,7 @@
 {
   "main.css": "/AlejandroRodriguez/static/css/main.6e3bf162.chunk.css",
-  "main.js": "/AlejandroRodriguez/static/js/main.888103fc.chunk.js",
-  "main.js.map": "/AlejandroRodriguez/static/js/main.888103fc.chunk.js.map",
+  "main.js": "/AlejandroRodriguez/static/js/main.fa12c2be.chunk.js",
+  "main.js.map": "/AlejandroRodriguez/static/js/main.fa12c2be.chunk.js.map",
   "static/js/1.321a31f3.chunk.js": "/AlejandroRodriguez/static/js/1.321a31f3.chunk.js",
   "static/js/1.321a31f3.chunk.js.map": "/AlejandroRodriguez/static/js/1.321a31f3.chunk.js.map",
   "runtime~main.js": "/AlejandroRodriguez/static/js/runtime~main.7e66c91d.js",
@@ -17,6 +17,6 @@
   "static/media/cv.pdf": "/AlejandroRodriguez/static/media/cv.0673e4fe.pdf",
   "static/css/main.6e3bf162.chunk.css.map": "/AlejandroRodriguez/static/css/main.6e3bf162.chunk.css.map",
   "index.html": "/AlejandroRodriguez/index.html",
-  "precache-manifest.fd2c60aac4fd1335e8c599be54cbfcdb.js": "/AlejandroRodriguez/precache-manifest.fd2c60aac4fd1335e8c599be54cbfcdb.js",
+  "precache-manifest.7ef4e0d3a5e5ca5614492ad8468a6fee.js": "/AlejandroRodriguez/precache-manifest.7ef4e0d3a5e5ca5614492ad8468a6fee.js",
   "service-worker.js": "/AlejandroRodriguez/service-worker.js"
 }

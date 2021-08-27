@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "888103fc5ad5556adf72",
+    "revision": "fa12c2bec070b76fba80",
     "url": "/AlejandroRodriguez/static/css/main.6e3bf162.chunk.css"
   },
   {
-    "revision": "888103fc5ad5556adf72",
-    "url": "/AlejandroRodriguez/static/js/main.888103fc.chunk.js"
+    "revision": "fa12c2bec070b76fba80",
+    "url": "/AlejandroRodriguez/static/js/main.fa12c2be.chunk.js"
   },
   {
     "revision": "321a31f33b8529cbc453",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/AlejandroRodriguez/static/media/cv.0673e4fe.pdf"
   },
   {
-    "revision": "6938d6a1a57e9c3044a96c4676a4f220",
+    "revision": "a42d79a83ede36ca3d1eeffe2fcdb27f",
     "url": "/AlejandroRodriguez/index.html"
   }
 ];
