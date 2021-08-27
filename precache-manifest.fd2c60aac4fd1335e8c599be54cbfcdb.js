@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "3e840dd237f57d596c6d",
-    "url": "/AlejandroRodriguez/static/css/main.4d56f1eb.chunk.css"
+    "revision": "888103fc5ad5556adf72",
+    "url": "/AlejandroRodriguez/static/css/main.6e3bf162.chunk.css"
   },
   {
-    "revision": "3e840dd237f57d596c6d",
-    "url": "/AlejandroRodriguez/static/js/main.3e840dd2.chunk.js"
+    "revision": "888103fc5ad5556adf72",
+    "url": "/AlejandroRodriguez/static/js/main.888103fc.chunk.js"
   },
   {
-    "revision": "90c7e430d5119ff67194",
-    "url": "/AlejandroRodriguez/static/js/1.90c7e430.chunk.js"
+    "revision": "321a31f33b8529cbc453",
+    "url": "/AlejandroRodriguez/static/js/1.321a31f3.chunk.js"
   },
   {
     "revision": "7e66c91de90d338c27d6",
@@ -18,10 +18,6 @@ self.__precacheManifest = [
   {
     "revision": "060bcd8156d244528f692e59599bc1b8",
     "url": "/AlejandroRodriguez/static/media/profilepic.060bcd81.jpeg"
-  },
-  {
-    "revision": "0673e4fe1449eb28da6e9738479fd921",
-    "url": "/AlejandroRodriguez/static/media/cv.0673e4fe.pdf"
   },
   {
     "revision": "599eb2030b5617f060e91dc069ad5b3b",
@@ -52,7 +48,11 @@ self.__precacheManifest = [
     "url": "/AlejandroRodriguez/static/media/react.a7212ed4.png"
   },
   {
-    "revision": "2b62678dd69bfdfcf7272fdc54b42af2",
+    "revision": "0673e4fe1449eb28da6e9738479fd921",
+    "url": "/AlejandroRodriguez/static/media/cv.0673e4fe.pdf"
+  },
+  {
+    "revision": "6938d6a1a57e9c3044a96c4676a4f220",
     "url": "/AlejandroRodriguez/index.html"
   }
 ];
